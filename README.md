@@ -4,6 +4,8 @@
 
 For Arch-based (Manjaro) distros.
 
+NO GUARANTEES APPLY! THIS MAY BREAK YOUR SYSTEM!!
+
 ## Installation
 
 First `git clone https://git.mt32.net/mtorials/mtorials-configs` this directory.
