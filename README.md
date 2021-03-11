@@ -20,7 +20,21 @@ GTK Theme: `matcha-sea` or `materia-dark`
 
 System Font: `Inconsolota` or `Roboto`
 
+# Terminal
+
+## Font
+
 Monospace Font: `anonymous-pro` (package name: `ttf-anonymous-pro`)
+
+## Shell
+
+I use the fish shell. Link the `fish` folder to `~/.config/fish`.
+
+## Prompt
+
+https://github.com/b-ryan/powerline-shell.
+
+Install with `pip install powerline-shell`. Necessary for fish config to work.
 
 ## Configs
 
@@ -32,4 +46,10 @@ Command on auto start: `picom -b --experimental-backends`.
 Make sure you disable the build in compositor!
 
 ### Code
+
+Mayukai Theme
+
+### Ranger (File Manager)
+
+Works in the Terminal and looks really nice!
 
