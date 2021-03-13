@@ -1,4 +1,5 @@
-sudo pacman -S polybar
+yay -S polybar
+sudo pacman -S playerctl
 mkdir ~/config-backups
 cp -r ~/.config/polybar ~/config-backups
 rm -r ~/.config/polybar
