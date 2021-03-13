@@ -34,9 +34,7 @@ I use the fish shell. Link the `fish` folder to `~/.config/fish`.
 
 ## Prompt
 
-https://github.com/b-ryan/powerline-shell.
-
-Install with `pip install powerline-shell`. Necessary for fish config to work.
+The Tide prompt! https://github.com/IlanCosman/tide
 
 ## Configs
 
