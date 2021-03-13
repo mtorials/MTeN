@@ -1,4 +1,5 @@
 yay -S polybar
+yay -S pulseaudio-control
 sudo pacman -S playerctl
 mkdir ~/config-backups
 cp -r ~/.config/polybar ~/config-backups
