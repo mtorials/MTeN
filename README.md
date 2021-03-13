@@ -55,3 +55,8 @@ Mayukai Theme
 
 Works in the Terminal and looks really nice!
 
+### Spotify / Spicetify
+
+Install spicetify and spicetify-themes. Permission error (in case this is your spotify path (not with flatpack/snap))?
+`sudo chmod a+wr -R /opt/spotify/Apps/`
+I'm using the `Matcha` theme.
