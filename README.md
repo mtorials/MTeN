@@ -58,3 +58,13 @@ Works in the Terminal and looks really nice!
 Install spicetify and spicetify-themes. Permission error (in case this is your spotify path (not with flatpack/snap))?
 `sudo chmod a+wr -R /opt/spotify/Apps/`
 I'm using the `Matcha` theme.
+
+# Polybar
+
+## Pulseuaudio control
+
+https://github.com/marioortizmanero/polybar-pulseaudio-control from here. To install `yay -S pulseaudio-control`.
+
+## Media
+
+Playerctl with `sudo pacman -S playerctl`.
