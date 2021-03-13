@@ -5,6 +5,8 @@ cp -r ~/.config/polybar ~/config-backups
 rm -r ~/.config/polybar
 ln -rs polybar/ ~/.config/polybar
 
+chmod +x polybar/scripts/get-song.sh
+
 polybar --list-monitors
 echo "Please type in the name of the monitor you want the bar to appear on:"
 read monitor
