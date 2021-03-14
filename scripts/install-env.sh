@@ -1,4 +1,3 @@
-sudo pacman -S xfce4
 sudo pacman -S arc-gtk-theme
 sudo pacman -S papirus-icon-theme
 yay -S picom-tryone-git

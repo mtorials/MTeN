@@ -2,7 +2,7 @@
 
 *work in progress*
 
-For Arch-based (Manjaro) distros.
+Full desktop configuration for Arch-based (Manjaro) distros with XFCE4.
 
 NO GUARANTEES APPLY! THIS MAY BREAK YOUR SYSTEM!!
 
