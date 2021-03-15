@@ -18,7 +18,7 @@ Desktop Enviroment: `xfce4`
 
 Icon Theme: `papirus`
 
-GTK Theme: `matcha-sea` or `arc-darker` or `materia-dark`
+GTK Theme: `matcha-azul` or `materia-dark`
 
 System Font: `Inconsolota` or for materia `Roboto`
 
@@ -26,7 +26,7 @@ System Font: `Inconsolota` or for materia `Roboto`
 
 ## Font
 
-Monospace Font: `anonymous-pro` (package name: `ttf-anonymous-pro`)
+Monospace Font: `Iosevka Slab Semibold` (aur package name: `ttf-iosevka-slab`) or alternatively `anonymous-pro` (package name: `ttf-anonymous-pro`).
 
 ## Shell
 
@@ -59,12 +59,16 @@ Install spicetify and spicetify-themes. Permission error (in case this is your s
 `sudo chmod a+wr -R /opt/spotify/Apps/`
 I'm using the `Matcha` theme.
 
-# Polybar
+## Polybar
 
-## Pulseuaudio control
+### Pulseuaudio control
 
 https://github.com/marioortizmanero/polybar-pulseaudio-control from here. To install `yay -S pulseaudio-control`.
 
-## Media
+### Media
 
 Playerctl with `sudo pacman -S playerctl`.
+
+## Colors
+
+The colors match the papirus icon theme.
