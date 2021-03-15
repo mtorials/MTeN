@@ -69,6 +69,10 @@ https://github.com/marioortizmanero/polybar-pulseaudio-control from here. To ins
 
 Playerctl with `sudo pacman -S playerctl`.
 
+## Background Image
+
+Background Image made with [SVGBackgrounds.com](https://www.svgbackgrounds.com/). Licensed under the CC BY 4.0.
+
 ## Colors
 
 The colors match the papirus icon theme.
