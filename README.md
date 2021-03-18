@@ -18,9 +18,9 @@ Desktop Enviroment: `xfce4`
 
 Icon Theme: `papirus`
 
-GTK Theme: `matcha-azul` or `materia-dark`
+GTK Theme: `matcha-dark-azul`
 
-System Font: `Inconsolota` or for materia `Roboto`
+System Font: `Inconsolota`
 
 # Terminal
 

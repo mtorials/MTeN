@@ -4,7 +4,6 @@
 
 * Put install scripts separate (no confusion with manj/arch)
 
-
 ## Polybar
 
 * Clipboard manager?
