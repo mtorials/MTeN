@@ -40,8 +40,8 @@ The Tide prompt! https://github.com/IlanCosman/tide
 
 ### Picom
 
-Better compositor (not only) for xfce4. Package to use with blur `picom-tryone-git`(AUR). Config file under `~/.config/picom/picom.conf`.
-Command on auto start: `picom -b --experimental-backends`.
+Better compositor (not only) for xfce4. Package to use with blur `picom-ibhagwan-git`(AUR). Config file under `~/.config/picom/picom.conf`.
+Command on auto start: `picom -b`.
 
 Make sure you disable the build in compositor!
 
